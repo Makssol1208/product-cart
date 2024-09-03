@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Makssol1208/product-cart/static/css/main.258433c5.css",
+    "main.js": "/Makssol1208/product-cart/static/js/main.c5cf2e52.js",
+    "index.html": "/Makssol1208/product-cart/index.html",
+    "main.258433c5.css.map": "/Makssol1208/product-cart/static/css/main.258433c5.css.map",
+    "main.c5cf2e52.js.map": "/Makssol1208/product-cart/static/js/main.c5cf2e52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.258433c5.css",
+    "static/js/main.c5cf2e52.js"
+  ]
+}

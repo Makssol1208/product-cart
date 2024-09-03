@@ -1,6 +1,6 @@
 import ButtonDelete from '../ButtonDelete';
 import Count from '../Count';
-import formatPrice from './../../utils/priceFormatter'
+import formatPrice from '../../utils/priceFormatter'
 import './style.scss';
 
 const Product = ({ product, deleteProduct, increase, changeValue, decrease }) => {

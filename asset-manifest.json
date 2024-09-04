@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.com/product-cart/static/css/main.258433c5.css",
-    "main.js": "/github.com/product-cart/static/js/main.c5cf2e52.js",
-    "index.html": "/github.com/product-cart/index.html",
-    "main.258433c5.css.map": "/github.com/product-cart/static/css/main.258433c5.css.map",
-    "main.c5cf2e52.js.map": "/github.com/product-cart/static/js/main.c5cf2e52.js.map"
+    "main.css": "/github.io/product-cart/static/css/main.258433c5.css",
+    "main.js": "/github.io/product-cart/static/js/main.c5cf2e52.js",
+    "index.html": "/github.io/product-cart/index.html",
+    "main.258433c5.css.map": "/github.io/product-cart/static/css/main.258433c5.css.map",
+    "main.c5cf2e52.js.map": "/github.io/product-cart/static/js/main.c5cf2e52.js.map"
   },
   "entrypoints": [
     "static/css/main.258433c5.css",
